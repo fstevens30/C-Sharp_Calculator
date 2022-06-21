@@ -9,4 +9,4 @@
 - When a result is printed the background and foreground colours of the console will change (e.g, Addition turns the console red).
 - The task will be completed in Visual Studio 2022.
 
-Created by Flynn Stevens, NMIT Student, 2022
+**Created by Flynn Stevens, NMIT Student, 2022**
